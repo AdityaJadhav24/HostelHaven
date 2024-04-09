@@ -1060,19 +1060,19 @@ button:hover{
     }
 
     .Home img{
-        width: 180px;
+        width: 100px;
         padding-top: 30px;
         
     }
 
     .menu .menu_box .menu_card{
-        width: 440px;
-        height: 480px;
+        width: 400px;
+        height: 440px;
     }
     
     .menu .menu_box .menu_card .menu_image{
-        width: 400px;
-        height: 250px;
+        width: 360px;
+        height: 210px;
     }
 
     .about{
